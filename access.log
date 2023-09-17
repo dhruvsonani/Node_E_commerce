@@ -19,3 +19,8 @@
 ::1 - - [23/Aug/2023:11:53:06 +0000] "GET /css/product.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
 ::1 - - [23/Aug/2023:11:53:06 +0000] "GET /js/main.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
 ::1 - - [23/Aug/2023:11:53:06 +0000] "GET /images/f0808d54-d7f3-410b-8386-a96dac7c291b-naruto.jpg HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [17/Sep/2023:17:52:26 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [17/Sep/2023:17:52:26 +0000] "GET /images/f0808d54-d7f3-410b-8386-a96dac7c291b-naruto.jpg HTTP/1.1" 200 9412 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [17/Sep/2023:17:52:26 +0000] "GET /css/product.css HTTP/1.1" 200 379 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [17/Sep/2023:17:52:26 +0000] "GET /css/main.css HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [17/Sep/2023:17:52:26 +0000] "GET /js/main.js HTTP/1.1" 200 519 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
